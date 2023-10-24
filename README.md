@@ -7,10 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-    <img src="https://github.com/haezera/haezera/assets/123307411/5731c80b-72be-41b8-b563-a18d4c68a066" width="500" />
+    <img src="https://github.com/haezera/haezera/assets/123307411/5731c80b-72be-41b8-b563-a18d4c68a066" width="500" /> <br>
 </div>
+
 <div>
-  <h2> Who are you </h2>
+  <h2> Who are you?</h2>
   I'm a first year, Bachelor of Advanced Computer Science student who is minoring in Mathematics. My interests are everywhere at the moment, as I let myself enjoy and explore multiple different fields of CS and SWE. <br>
 A more extensive introduction can be found at <a href="https://haezera.github.io" target="_blank">my website</a>
   <h2>What are you working on?</h2>
