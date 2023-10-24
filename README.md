@@ -21,6 +21,6 @@ A more extensive introduction can be found at <a href="https://haezera.github.io
     <h3>personal portfolio website</h3>
     My personal portfolio website is constantly being maintained and updated with more information and things I want to add. It was made with HTML/CSS/JS, and was my first introduction to web development. 
     <h3>algorithmic game theory in poker</h3>
-    This is a personal research project that is consider poker in two lenses - a fair divison lens and a unfair money accumulation lens. The goal of the project is to consider how different decisions that players make (called 'villains' in poker), can affect the optimal decisions as the player (called the 'hero').
+    This is a personal research project that considers poker in two lenses - a fair divison lens and a unfair money accumulation lens. The goal of the project is to consider how different decisions that players make (called 'villains' in poker), can affect the optimal decisions as the player (called the 'hero').
     
 </div>
