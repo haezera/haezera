@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>
-  Hey, I'm Hae! (haha)
+  heyo i'm haeohreum
 </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/haeohreum-kim-3a92bb240/">
