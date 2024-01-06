@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/haeohreum-kim-3a92bb240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-    <img src="https://github.com/haezera/haezera/assets/123307411/5731c80b-72be-41b8-b563-a18d4c68a066" width="500" /> <br>
-</div>
 
 <div>
   <h2> Who are you?</h2>
