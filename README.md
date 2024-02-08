@@ -10,7 +10,7 @@
 
 <div align = "left">
   <h2> who am i</h2>
-  i'm a cs student at the university of new south wales. i enjoy most things quantitative and mathematical, and love making random stuff. 
+  i'm a cs student at the university of new south wales.
   <h2> what have i worked on </h2>
   <h3> personal portfolio </h3>
   just a simple html/css website which hosts all of my educational resources for free, and also hosts my (alpha) pytrading docs
