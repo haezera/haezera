@@ -1,9 +1,12 @@
+
+
 <div id="header">
 <h1>
   heyo i'm haeohreum
 </h1>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</div>
 
+![](https://leetcard.jacoblin.cool/haezera?ext=heatmap)
 
 <div align = "left">
   <h2> who am i</h2>
