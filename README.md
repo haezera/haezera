@@ -2,11 +2,7 @@
 <h1>
   heyo i'm haeohreum
 </h1>
-  <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/haeohreum-kim-3a92bb240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 <div align = "left">
   <h2> who am i</h2>
