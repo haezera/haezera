@@ -2,7 +2,8 @@
 <h1>
   heyo i'm haeohreum
 </h1>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <div align = "left">
   <h2> who am i</h2>
